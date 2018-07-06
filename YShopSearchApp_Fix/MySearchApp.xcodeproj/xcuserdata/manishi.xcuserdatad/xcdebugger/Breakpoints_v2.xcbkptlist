@@ -9,12 +9,12 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "MySearchApp/ItemSearchResultSet.swift"
-            timestampString = "551667045.670487"
+            filePath = "MySearchApp/SearchItemTableViewController.swift"
+            timestampString = "530989930.329901"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "131"
-            endingLineNumber = "131"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
             landmarkName = "unknown"
             landmarkType = "0">
          </BreakpointContent>
